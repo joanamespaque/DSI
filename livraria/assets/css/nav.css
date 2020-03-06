@@ -1,0 +1,123 @@
+img{
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+    /* size: 10%; */
+}
+.navbar-brand{
+    font-family: 'Kaushan Script', cursive;
+    font-size:25px;
+}
+button.btn.botao span{
+    font-size:20px;
+    size: 10px;
+}
+nav.navbar.navbar-expand-lg.navbar-light.bg-light{
+    margin-bottom: 0;
+}
+div.alert, div#cont1{
+    display:block !important;
+    margin-left:auto !important;
+    margin-right:auto !important;
+}
+ul {
+    list-style-type: none;
+}   
+input.form-control{
+    font-size:19px;
+}
+form{
+    margin-top:20px;width:60%;display: block;margin-right: auto;margin-left: auto;
+}
+a.link{
+    color: #43a690 !important;
+    display:block !important;
+    margin-left:auto !important;
+    margin-right:auto !important;
+    text-align: center;
+}
+.botaoExcluirGenero{
+    width:180px;
+}
+div.divTabelaGenero{
+    display:block !important;
+    margin-left:auto !important;
+    margin-right:auto !important;
+}
+.tabela-genero, div.divTabelaGenero{
+    width:600px !important;
+}
+nav{
+    margin-bottom:30px;
+}
+#titulo{
+    color: #43a690 !important;
+    text-align: center;
+}
+.pdf{
+    width: 110px;
+}
+.botao{
+    background-color:#43a690 !important;
+    color:white  !important;
+    display:block !important;
+    margin-left:auto !important;
+    margin-right:auto !important;
+    margin-bottom:30px;
+}
+.table thead th{
+    color: #43a690 !important;
+}
+.table{
+    margin-top:40px;
+    
+}
+div.mensagem{
+    display:block !important;
+    margin-left:auto !important;
+    margin-right:auto !important;
+}
+
+textarea:focus,
+select:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+.uneditable-input:focus {   
+    border-color: #43a690 !important;
+    box-shadow: 0 0.5px 0.5px rgba(0, 0, 0, 0.075) inset, 0 0 2px #43a690 !important;
+    outline: 0 none !important;
+}
+
+#direita{
+    float:right;
+}
+ul.radioUl{
+    padding-left:0px;
+    height: 40px;
+}
+ul.radioUl li {
+    float:left;
+    margin-left: 10px;
+}
+.divBotao{
+    width: 100%;
+}
+#cart{
+    width: 40px;
+    height: 40px;
+}
+.cartButton{
+    font-size:15px;
+}

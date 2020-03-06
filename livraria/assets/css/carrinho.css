@@ -1,0 +1,30 @@
+.ajusta{
+    text-align: center;
+}
+table {
+    width:100%;
+    border: 1px solid transparent;
+    padding: 5px;
+}
+.semborda{
+    border:none;
+}
+
+table th {
+    background-color:#43a690;
+}
+
+table td {
+    padding: 5px;
+    background-color: #fff;
+    text-align: center;
+}
+
+table td input {
+    text-align: center;
+    padding: 3px;
+}
+.dados{
+    width:60%;
+    margin:0 auto;
+}

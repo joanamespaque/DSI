@@ -1,0 +1,67 @@
+.img img{
+    width: 200px;
+    height: 250px;
+    float: left;
+    margin-top: 50px;   
+}
+div.img{
+    width: 200px;
+    float:left;
+    margin-right: 40px;
+}
+form{
+    width: 100%;
+}
+div.img button{
+    font-size: 13px;
+}
+#preco{
+    font-size:30px;
+    text-align: center;
+}
+div.info{
+    width: 70%;
+    float: left;
+}
+.img label{
+    text-align: center;
+}
+.img input{
+    margin-bottom:10px;
+}
+.img button{
+    width: 100%;    
+}
+div.info span, div.sinopse, div.detalhes, .img label{
+    display:block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+div.detalhes label{
+    font-family: 'Kaushan Script', cursive;
+    color:white;
+    margin-bottom: -10px;
+}
+div.detalhes span{
+    text-shadow: white 0.01em 0.01em 0.03em !important;
+    color: black !important;
+
+}
+div.info span{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Kaushan Script', cursive;
+    color: #0000;
+    text-shadow: black 0.01em 0.01em 0.03em;
+}
+div.detalhes p{
+    text-align: justify;
+}
+div.detalhes{
+    opacity: 0.8;
+    background-color:#43a690;
+    border-radius: 5px;
+    width: 90%;
+    padding: 10px 20px 10px 20px;
+
+}

@@ -1,0 +1,23 @@
+.compra{
+    width: 90%;
+    padding: 50px 50px 50px 50px;
+    border: 1px solid;
+    border-color: gray;
+    margin: 0 auto;
+    margin-bottom:40px;
+}
+table{
+    margin-bottom:20px !important;
+}
+
+h5{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+.container-compra{
+    width:95%;
+    margin: 0 auto;
+}
